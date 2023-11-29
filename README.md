@@ -16,6 +16,7 @@
 
         Publications:  https://dergi.mta.gov.tr/article/show/2773.html
                        https://doi.org/10.3390/rs13183593
+                       https://online-journals.tubitak.gov.tr/earth/accepted.htm
                        https://doi.org/10.51489/tuzal.1187819
 
 <!---
