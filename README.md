@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @onurkaraca87
-👋 Hi, I’m Şükrü Onur Karaca
-
 I am a Ph.D. candidate in Geology at the University of Houston and a Geospatial & Remote Sensing Specialist with 6+ years of professional experience across academia, government research, and energy sectors. My work focuses on InSAR-based surface deformation analysis, hyperspectral and multispectral remote sensing, machine learning for environmental applications, and GIS-driven spatial analysis. I am a U.S. Permanent Resident (Green Card holder) and eligible to work without sponsorship.
 
 
